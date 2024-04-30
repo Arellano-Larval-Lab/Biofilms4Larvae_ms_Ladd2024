@@ -4,8 +4,8 @@
 ## Ladd, T.M., Selci, M., Davis, D.J., Cannon, O., Plowman, C.Q., 
 ## Schlegel,I.,Inaba, A., Mills, S.W., Vetriani, C., Mullineaux,L.S.,
 ## Arellano, S.M. (2024).Faunal colonists, including mussel settlers, 
-## respond to microbial biofilms at deep-sea hydrothermal vents. Deep 
-## Sea Research Part I
+## respond to microbial biofilms at deep-sea hydrothermal vents. Deep-Sea 
+## Research Part I
 
 ## This code is used to analyze microbial 16S data on established and 
 ## fresh biofilm sandwiches across biogenic zones. It also includes 
