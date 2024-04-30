@@ -1,11 +1,11 @@
 #### Microbial (16S) Post-DADA2 Create Phyloseq and Clean ####
 ### Final analysis for RR2102 Biofilms4larvae MS
-### to be submitted to Deep Sea Research Part I
 
 ## Ladd, T.M., Selci, M., Davis, D.J., Cannon, O., Plowman, C.Q., 
 ## Schlegel,I.,Inaba, A., Mills, S.W., Vetriani, C., Mullineaux,L.S.,
 ## Arellano, S.M. (2024).Faunal colonists, including mussel settlers, 
-#  respond to microbial biofilms at deep-sea hydrothermal vents.
+## respond to microbial biofilms at deep-sea hydrothermal vents. Deep-Sea
+## Research Part I
 
 ## This code is used to take the raw sequencing table from the DADA2 pipeline
 ## output, create a phyloseq object, and remove Eukaryotic, chloroplast, 
