@@ -1,11 +1,11 @@
 #### Microbial (16S) DADA2 Pipeline ####
 ### Final analysis for RR2102 Biofilms4larvae MS
-### to be submitted to Deep Sea Research Part I
 
 ## Ladd, T.M., Selci, M., Davis, D.J., Cannon, O., Plowman, C.Q., 
 ## Schlegel,I.,Inaba, A., Mills, S.W., Vetriani, C., Mullineaux,L.S.,
 ## Arellano, S.M. (2024).Faunal colonists, including mussel settlers, 
-#  respond to microbial biofilms at deep-sea hydrothermal vents.
+## respond to microbial biofilms at deep-sea hydrothermal vents. Deep-Sea
+## Research Part I
 
 ## This code is used to take the demultiplexed paired end sequencing reads 
 ## from the sequencing facility and run them through the DADA2 pipeline.
