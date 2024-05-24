@@ -88,6 +88,9 @@ write.csv(trackall, "pscleaning_trackreadsASVstotal.csv")
 
 ##### Rename ASVs and save FASTA file #####
 
+#final "cleaned" ps is prok_data_mit
+ps <- prok_data_mit
+
 #simplify seq names from raw seqs - add as Biostrings set in ps obj
 dna <- Biostrings::DNAStringSet(taxa_names(ps))
 names(dna) <- taxa_names(ps)
